@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 
-import requests
+# import requests
 import pymongo
 import result
 

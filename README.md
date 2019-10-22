@@ -8,24 +8,16 @@
 
 不改了，就这样吧，感兴趣可以自己去修改
 
-<<<<<<< HEAD
-**更新：
-2019/10/14 更新文件ip_block_check 解决频繁getupdate被tg ban，无法获得更新内容问题**
-=======
 更新：
 
 2019/10/14 更新文件ip_block_check 解决频繁getupdate被tg ban，无法获得更新内容问题
 
 2019/10/19 修改result.py，解决查询timeout问题（直接下载替换result文件即可）
->>>>>>> upstream/master
 
 #### 好消息！好消息！好消息！
 
 论坛有mjj分享了查询IP是否被墙的php源码，开源地址：https://gitee.com/KIENG_S/jianchaipshifouzuduan
-<<<<<<< HEAD
 
-=======
->>>>>>> upstream/master
 大家可以搭建自己的api接口了，具体详情请查看自主搭建里的README。
 
 #### 使用方法 ：
